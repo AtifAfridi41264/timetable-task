@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+     
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+th{
+    padding: 20px;
+    text-align: center;
+    
+}
+button{
+    color: green;
+}
+
+    
+
+button{
+    margin: right 35px;
+}
+
+#button:hover{
+background-color: aqua;
+text-decoration: none;
+}
+
+table:hover{
+    background-color: chartreuse;
+    color: black;
+    
+}
+
+
+
+
+
